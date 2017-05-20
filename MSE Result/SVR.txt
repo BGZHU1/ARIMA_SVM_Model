@@ -1,0 +1,9 @@
+Hybrid Model
+PMTest MSE: 1.443Hybrid Model
+TTest MSE: 0.656Hybrid Model
+KODKTest MSE: 2.398Hybrid Model
+JPMTest MSE: 1.955Hybrid Model
+GMTest MSE: 0.946Hybrid Model
+GETest MSE: 1.131Hybrid Model
+CTest MSE: 1.609Hybrid Model
+ANATTest MSE: 1.867
